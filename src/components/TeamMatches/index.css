@@ -1,0 +1,25 @@
+.TeamMatches-bg-Container {
+  background-color: red;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.teamBanner-Img {
+  height: 290px;
+  width: 85%;
+}
+
+.latest-matches-container {
+  width: 85%;
+}
+
+.latest-match-para {
+  color: #ffffffff;
+  font-size: 18px;
+  font-family: 'bree serif';
+}
